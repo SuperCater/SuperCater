@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SuperCater or more commonly known online as Cater. My real name is Alexander Duffey
+- 👋 Hi, I’m @SuperCater or more commonly known online as Cater.
 - 👀 I’m interested in making Discord bots, games, and websites.
-- 🌱 I’m currently learning JavaScript, Discord.js, NodeJS, and LuaU
+- 🌱 I’m currently learning JavaScript, Discord.js, NodeJS, C#, and LuaU
 - 📫 How to reach me:
 - Discord: Cater#8008
 - Email: supercater500@gmail.com
