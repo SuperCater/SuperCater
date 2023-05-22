@@ -1,17 +1,21 @@
 > Never give up, Never surrender.
 
-- 👋 Hi, I’m @SuperCater or more commonly known online as Cater.
-- 👀 I’m interested in making Discord bots, games, and websites.
-- 🌱 I’m currently learning JavaScript, Discord.js, NodeJS, C#, and LuaU
-- 📫 How to reach me:
-- Discord: Cater#8008
-- Email: supercater500@gmail.com
-- Twitter: CaterWasTaken
+# About me:
 
-<!---
-SuperCater/SuperCater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @SuperCater or more commonly known online as Cater. I'm a very chill person and may randomly commit on a project i find cool or think i know a way to improve it.
+I'm the owner of [Green Sky Studios](https://github.com/Green-Sky-Studios) and most of my cool projects are hosted under it, my biggest one called Athena is closed source, however, versions up to 4 of Athena are public [here](https://github.com/SuperCater/Project-Athena)
+
+# Experiences:
+I mostly develop with JavaScript, however, I also know how to use CSS, HTML, and Lua.
+I have experience with the following things:
+* Node.js
+* Discord.js
+* mongodb (mongoose)
+* APIs
+* Express.js
+* Heroku
+
+# My code stats:
 
 [![Caters's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperCater&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCater&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
