@@ -15,6 +15,10 @@ I have experience with the following things:
 * Express.js
 * Heroku
 
+# How to contact me:
+* Discord: Cater#8008 (best way)
+* [Twitter: @CaterWasTaken](https://twitter.com/CaterWasTaken)
+
 # My code stats:
 
 [![Caters's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperCater&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
