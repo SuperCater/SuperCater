@@ -16,7 +16,7 @@ I have experience with the following things:
 * Heroku
 
 # How to contact me:
-* Discord: Cater#8008 (best way)
+* Discord: cater (best way)
 * [Twitter: @CaterWasTaken](https://twitter.com/CaterWasTaken)
 
 # My code stats:
