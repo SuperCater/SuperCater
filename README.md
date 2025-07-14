@@ -2,7 +2,7 @@
 
 Hi, I’m @SuperCater or more commonly known online as Cater.
 
-I'm mostly a backend developer but I can do some frontend stuff. I like working on Discord bots, Roblox games/systems, and modules.
+I'm mostly a backend developer but I can do some frontend stuff.
 
 My biggest project is probably [Wrapblox](https://github.com/SuperCater/WrapBlox) which is still indev. Its a Roblox API wrapper.
 I mostly use it for personal use in one of my discord bots but its open source since I hate noblox and I dont think anyone deserves the pain of having to use it.
@@ -11,7 +11,7 @@ I mostly use it for personal use in one of my discord bots but its open source s
 * Discord: cater
 
 # Experiences:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,html,css,heroku,discord,bots,mongo,git,github,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,cs,net,html,css,discord,discordjs,mongo,nodejs,express,robloxstudio)](https://skillicons.dev)
 
 # My code stats:
 
