@@ -5,7 +5,7 @@ Hi, I’m @SuperCater or more commonly known online as Cater.
 I'm mostly a backend developer but I can do some frontend stuff.
 
 My biggest project is probably [Wrapblox](https://github.com/SuperCater/WrapBlox) which is still indev. Its a Roblox API wrapper.
-I mostly use it for personal use in one of my discord bots but its open source since I hate noblox and I dont think anyone deserves the pain of having to use it.
+I mostly use it for personal use in one of my discord bots that's closed source.
 
 # How to contact me:
 * Discord: cater
